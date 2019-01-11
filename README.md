@@ -1,3 +1,7 @@
+# Repo Deprecated Warning
+
+Tencent Cloud provider now is one of the official supported providers, code and document has been moved to [https://github.com/terraform-providers/terraform-provider-tencentcloud](https://github.com/terraform-providers/terraform-provider-tencentcloud) . This repo is deprecated now, all issues & pull requests should be report to the official repo, thanks.
+
 # terraform-provider-tencentcloud
 
 [![Build Status](https://api.travis-ci.org/tencentyun/terraform-provider-tencentcloud.png?branch=master)](https://travis-ci.org/tencentyun/terraform-provider-tencentcloud)
